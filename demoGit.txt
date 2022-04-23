@@ -2,5 +2,6 @@ b1 : git init
 b2 : git add . (. vì sẽ lấy được tất cả các file ẩn lên git)
 b3 : git commit -m "<nhập gì cũng được>"
 b4 : git push 
+B5 : hello git
 
 download một source nào đó : git clone <tên git muốn clone>
